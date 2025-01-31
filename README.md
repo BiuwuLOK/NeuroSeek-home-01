@@ -2,7 +2,7 @@
 
 A modern web application for a cutting-edge neurotechnology company, built with React, TypeScript, and Tailwind CSS.
 
-![NeuroSeek Screenshot](https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=800&q=80)
+![NeuroSeek Screenshot](img/neuroseek-home-01-demo.PNG)
 
 ## Features
 
