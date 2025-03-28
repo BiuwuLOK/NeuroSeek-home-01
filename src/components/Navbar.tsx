@@ -7,7 +7,7 @@ const Navbar = () => {
       <div className="max-w-7xl mx-auto flex justify-between items-center px-8 py-3 bg-white rounded-lg shadow-lg shadow-indigo-400/40 border border-indigo-200">
         <div className="flex items-center space-x-2">
           <FontAwesomeIcon icon={faBrain} className="w-8 h-8 text-indigo-600" />
-          <span className="text-2xl font-bold text-gray-900">NeuroSeek</span>
+          <a href="#" className="text-2xl font-bold text-gray-900">NeuroSeek</a>
         </div>
         <div className="hidden md:flex space-x-8">
           <a href="#solutions" className="text-gray-600 hover:text-indigo-600 transition-colors">Solutions</a>
