@@ -12,7 +12,7 @@ A modern web application for a cutting-edge neurotechnology company, built with 
 - 📱 Fully responsive layout
 - 🔍 SEO-friendly structure
 - 🎯 TypeScript for type safety
-- 🖼️ Lucide React icons
+- 🖼️ Font Awesome icons
 
 ## Tech Stack
 
@@ -20,7 +20,7 @@ A modern web application for a cutting-edge neurotechnology company, built with 
 - TypeScript
 - Tailwind CSS
 - Vite
-- Lucide React
+- Font Awesome
 
 ## Getting Started
 
